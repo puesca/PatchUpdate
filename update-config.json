@@ -3,8 +3,8 @@
     {
       "appName": "HIS",
       "versionOLD": "",
-      "versionNEW": "8.26.15.99.2",
-	  "EXEVersion": "8.26.15.99",
+      "versionNEW": "8.26.16.00.1",
+	  "EXEVersion": "8.26.16.00",
       "downloadUrl": "https://github.com/puesca/PatchUpdate/releases/download/1.0.0/HIS.zip",
       "releaseNotes": "TEST BRIEF FIXES DESCIPTION HERE",
       "fileSize": 1
@@ -12,8 +12,8 @@
     {
       "appName": "PIS",
       "versionOLD": "",
-      "versionNEW": "8.26.15.99.2",
-	  "EXEVersion": "8.26.15.99",
+      "versionNEW": "8.26.16.00.1",
+	  "EXEVersion": "8.26.16.00",
       "downloadUrl": "https://github.com/puesca/PatchUpdate/releases/download/1.0.0/PIS.zip",
       "releaseNotes": "TEST BRIEF FIXES DESCIPTION HERE",
       "fileSize": 1
@@ -21,8 +21,8 @@
     {
       "appName": "MMS",
       "versionOLD": "",
-      "versionNEW": "8.26.15.99.2",
-	  "EXEVersion": "8.26.15.99",
+      "versionNEW": "8.26.16.00.1",
+	  "EXEVersion": "8.26.16.00",
       "downloadUrl": "https://github.com/puesca/PatchUpdate/releases/download/1.0.0/MMS.zip",
       "releaseNotes": "TEST BRIEF FIXES DESCIPTION HERE",
       "fileSize": 1
@@ -30,8 +30,8 @@
     {
       "appName": "FMS",
       "versionOLD": "",
-      "versionNEW": "8.26.15.99.2",
-	  "EXEVersion": "8.26.15.99",
+      "versionNEW": "8.26.16.00.1",
+	  "EXEVersion": "8.26.16.00",
       "downloadUrl": "https://github.com/puesca/PatchUpdate/releases/download/1.0.0/FMS.zip",
       "releaseNotes": "TEST BRIEF FIXES DESCIPTION HERE",
       "fileSize": 1
